@@ -8,7 +8,86 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://shyam-ramakrishnan.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://shyam-ramakrishnan.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shyam-ramakrishnan.github.io/home/about/</guid>
+      <description>About Me Hi! I am pursuing a Master&amp;rsquo;s in Computer Science at North Carolina State University, Raleigh. My interests include cloud computing, machine learning, front end development and software practices in continuous deployment and configuration management.
+Besides academics, playing guitar and exploring different guitar gears are among my passions. I also love soccer and have played competitive soccer in local leagues.
+Curriculum Vitae</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://shyam-ramakrishnan.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shyam-ramakrishnan.github.io/home/skills/</guid>
+      <description>Languages: Java, Python, C#, R
+Web Technologies: Spring MVC, Node.js, AngularJS, ASP.NET MVC, Ruby on Rails, HTML5, CSS3, jQuery, Ajax, Bootstrap
+Database Technologies: MS SQL, MySQL, Oracle 11g, Apache Cassandra
+Tools and Utilities: Ansible, Docker, Maven, Jenkins, Travis CI, DataDog, Prometheus, ElasticSearch, Logstash, Kibana, Grafana, Amazon AWS, Apache Spark, Apache Kafka, Tensorflow
+Operating Systems: Mac OS, Windows, Linux
+Testing: JUnit, Selenium, Capybara, Nock, Mockito</description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://shyam-ramakrishnan.github.io/home/experience/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shyam-ramakrishnan.github.io/home/experience/</guid>
+      <description>Software Engineering Intern
+Cisco Systems, Research Triangle Park (May 2017 - Aug 2017)
+ Worked with the Cloud Collaboration team to Implement Cisco Spark call failure analysis using machine learning
+ Built a GPU server and setup the model training and prediction workflows to perform real time call failure classification
+ Worked on troubleshooting issues, bug fixes, automation scripts and REST API performance tests for Cisco Spark Call
+ Technologies used include Linux Bash, Python, Docker, ElasticSearch, Kibana, Apache Spark, Maven, Cassandra</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://shyam-ramakrishnan.github.io/home/projects/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shyam-ramakrishnan.github.io/home/projects/</guid>
+      <description>Slack DevOps Chat Bot - VMOps
+Using Node.js, Vagrant, Ansible, Amazon AWS, CloudWatch
+ Developed a conversational slack bot to configure and manage remote virtual machines on AWS servers using Ansible
+ Implemented features for users to spin up VMs, monitor resource utilization, merge VMs and shrink VM resources
+  Performance Analysis of Containers and VMs for Cloud Applications
+Using Docker, VirtualBox, Grafana, OpenNMS
+ Analyzed performance of Docker containers vs Type 2 hypervisor based VMs for compute and data centric cloud apps</description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>https://shyam-ramakrishnan.github.io/home/works/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shyam-ramakrishnan.github.io/home/works/</guid>
+      <description>Achievements:
+ Achieved a jury award for Second position at LexisNexis Rise to Code Hackathon - Raleigh, Oct 2017
+ Certificate of Excellence on client nomination at Tata Consultancy Services for proficient application development - Mumbai, Feb 2016, Client: ABN Amro Bank NV  Part Time Internship:
+ Was selected as a Student Developer Intern in 2017 Programme Management Lite Internship with the Office of Information Technology at NCSU
+ Worked with the Identity and Access Management team and implemented Oracle Identity Manager system</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shyam-ramakrishnan.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shyam-ramakrishnan.github.io/home/contact/</guid>
+      <description>If you have an interesting project or an opportunity, please connect with me on LinkedIn or send me an email.
+ Shyam Ramakrishnan </description>
+    </item>
     
   </channel>
 </rss>
